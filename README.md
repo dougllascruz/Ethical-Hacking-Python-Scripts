@@ -1,5 +1,5 @@
 # Ethical-Hacking-Python-Scripts
 
 ## Scanner Scripts
-1. **portScan.py:** A simple port scanner coded in Python that asks to specify an IP address. With this IP address, the script will scan the first 1000 ports and print out which ports are open and which ports are closed.\
+1. **portScan.py:** Scanner de porta simples criado em Python. O script fará a varredura a procura de portas com o estado "OPEN" e imprimirá quais portas estão abertas..\
 ![portScan Screenshot](Screenshots/portScan_Screenshot.png)
